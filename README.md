@@ -1,4 +1,4 @@
-### Hi there 👋, meu nome é Luís Felipe
+### Olá 👋, meu nome é Luís Felipe
 Um entusiasta do mundo dos dados!
 
 <!--
